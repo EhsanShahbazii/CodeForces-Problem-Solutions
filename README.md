@@ -33,3 +33,4 @@ ehsan.shahbazipc@gmail.com
 | [Domino piling](https://codeforces.com/problemset/problem/50/A) | 50A | 800 |
 | [Bit++](https://codeforces.com/problemset/problem/282/A) | 282A | 800 |
 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 263A | 800 |
+| [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 112A | 800 |
