@@ -41,7 +41,7 @@ ehsan.shahbazipc@gmail.com
 | [Elephant](https://codeforces.com/problemset/problem/617/A) | 617A | 800 |
 | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 546A | 800 |
 | [Word](https://codeforces.com/problemset/problem/59/A) | 59A | 800 |
-| [Word](https://codeforces.com/problemset/problem/977/A) | 977A | 800 |
+| [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 977A | 800 |
 
 
 
