@@ -36,6 +36,7 @@ ehsan.shahbazipc@gmail.com
 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 112A | 800 |
 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339A | 800 |
 | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 281A | 800 |
+| [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 236A | 800 |
 
 
 
