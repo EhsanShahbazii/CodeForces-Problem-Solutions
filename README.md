@@ -34,3 +34,4 @@ ehsan.shahbazipc@gmail.com
 | [Bit++](https://codeforces.com/problemset/problem/282/A) | 282A | 800 |
 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 263A | 800 |
 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 112A | 800 |
+| [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339A | 800 |
