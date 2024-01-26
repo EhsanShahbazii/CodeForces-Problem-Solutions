@@ -40,6 +40,7 @@ ehsan.shahbazipc@gmail.com
 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791A | 800 |
 | [Elephant](https://codeforces.com/problemset/problem/617/A) | 617A | 800 |
 | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 546A | 800 |
+| [Word](https://codeforces.com/problemset/problem/59/A) | 59A | 800 |
 
 
 
