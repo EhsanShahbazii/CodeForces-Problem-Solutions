@@ -25,27 +25,27 @@ ehsan.shahbazipc@gmail.com
 
 ## Problem Lists
 
-| Problem Name & Link | Problem ID | Level |
-| ------------ | ---------- | ----- |
-| [Watermelon](https://codeforces.com/problemset/problem/4/A) | 4A | 800 |
-| [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 71A | 800 |
-| [Team](https://codeforces.com/problemset/problem/231/A) | 231A | 800 |
-| [Domino piling](https://codeforces.com/problemset/problem/50/A) | 50A | 800 |
-| [Bit++](https://codeforces.com/problemset/problem/282/A) | 282A | 800 |
-| [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 263A | 800 |
-| [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 112A | 800 |
-| [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339A | 800 |
-| [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 281A | 800 |
-| [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 236A | 800 |
-| [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791A | 800 |
-| [Elephant](https://codeforces.com/problemset/problem/617/A) | 617A | 800 |
-| [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 546A | 800 |
-| [Word](https://codeforces.com/problemset/problem/59/A) | 59A | 800 |
-| [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 977A | 800 |
-| [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 110A | 800 |
-| [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734A | 800 |
-| [Translation](https://codeforces.com/problemset/problem/41/A) | 41A | 800 |
-| [Tram](https://codeforces.com/problemset/problem/116/A) | 116A | 800 |
+| No. | Problem Name & Link | Problem ID | Level |
+| --- | ------------ | ---------- | ----- |
+|1| [Watermelon](https://codeforces.com/problemset/problem/4/A) | 4A | 800 |
+|2| [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 71A | 800 |
+|3| [Team](https://codeforces.com/problemset/problem/231/A) | 231A | 800 |
+|4| [Domino piling](https://codeforces.com/problemset/problem/50/A) | 50A | 800 |
+|5| [Bit++](https://codeforces.com/problemset/problem/282/A) | 282A | 800 |
+|6| [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 263A | 800 |
+|7| [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 112A | 800 |
+|8| [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339A | 800 |
+|9| [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 281A | 800 |
+|10| [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 236A | 800 |
+|11| [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791A | 800 |
+|12| [Elephant](https://codeforces.com/problemset/problem/617/A) | 617A | 800 |
+|13| [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 546A | 800 |
+|14| [Word](https://codeforces.com/problemset/problem/59/A) | 59A | 800 |
+|15| [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 977A | 800 |
+|16| [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 110A | 800 |
+|17| [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734A | 800 |
+|18| [Translation](https://codeforces.com/problemset/problem/41/A) | 41A | 800 |
+|19| [Tram](https://codeforces.com/problemset/problem/116/A) | 116A | 800 |
 
 
 
