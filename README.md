@@ -45,6 +45,7 @@ ehsan.shahbazipc@gmail.com
 | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 110A | 800 |
 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734A | 800 |
 | [Translation](https://codeforces.com/problemset/problem/41/A) | 41A | 800 |
+| [Translation](https://codeforces.com/problemset/problem/116/A) | 116A | 800 |
 
 
 
