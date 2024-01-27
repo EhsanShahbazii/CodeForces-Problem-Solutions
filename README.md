@@ -48,6 +48,7 @@ ehsan.shahbazipc@gmail.com
 |19| [Tram](https://codeforces.com/problemset/problem/116/A) | 116A | 800 |
 |20| [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 677A | 800 |
 |20| [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | 271A | 800 |
+|20| [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030A | 800 |
 
 
 
