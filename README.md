@@ -1,3 +1,4 @@
+![codeforce](https://assets.codeforces.com/users/kguseva/comments/cf.png)
 # CodeForces-Problem-Solutions
 
 CodeForces Problem Solutions. over <b>+5 problems</b> solved...
@@ -24,6 +25,6 @@ ehsan.shahbazipc@gmail.com
 
 ## Problem Lists
 
-| Problem Name & Link | Problem ID |
-| ------------ | ---------- |
-| [A. Watermelon](https://codeforces.com/problemset/problem/4/A) | 4A |
+| Problem Name & Link | Problem ID | Level |
+| ------------ | ---------- | ----- |
+| [A. Watermelon](https://codeforces.com/problemset/problem/4/A) | 4A | 800 |
