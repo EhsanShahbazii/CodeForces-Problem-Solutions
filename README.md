@@ -27,4 +27,6 @@ ehsan.shahbazipc@gmail.com
 
 | Problem Name & Link | Problem ID | Level |
 | ------------ | ---------- | ----- |
-| [A. Watermelon](https://codeforces.com/problemset/problem/4/A) | 4A | 800 |
+| [Watermelon](https://codeforces.com/problemset/problem/4/A) | 4A | 800 |
+| [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 71A | 800 |
+| [Team](https://codeforces.com/problemset/problem/231/A) | 231A | 800 |
