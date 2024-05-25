@@ -31,3 +31,4 @@ ehsan.shahbazipc@gmail.com
 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 71A | 800 |
 | [Team](https://codeforces.com/problemset/problem/231/A) | 231A | 800 |
 | [Domino piling](https://codeforces.com/problemset/problem/50/A) | 50A | 800 |
+| [Bit++](https://codeforces.com/problemset/problem/282/A) | 282A | 800 |
