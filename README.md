@@ -37,6 +37,7 @@ ehsan.shahbazipc@gmail.com
 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 339A | 800 |
 | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 281A | 800 |
 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 236A | 800 |
+| [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 791A | 800 |
 
 
 
