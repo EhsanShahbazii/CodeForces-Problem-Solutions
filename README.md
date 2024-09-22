@@ -43,6 +43,7 @@ ehsan.shahbazipc@gmail.com
 | [Word](https://codeforces.com/problemset/problem/59/A) | 59A | 800 |
 | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 977A | 800 |
 | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 110A | 800 |
+| [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734A | 800 |
 
 
 
