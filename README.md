@@ -1,7 +1,7 @@
 ![codeforce](https://assets.codeforces.com/users/kguseva/comments/cf.png)
 # CodeForces-Problem-Solutions
 
-### CodeForces Problem Solutions. over <b>+10 problems</b> solved...
+### CodeForces Problem Solutions. over <b>+20 problems</b> solved...
 
 ## THIS REPOSITORY :white_check_mark:USEFUL:white_check_mark: FOR WHO:
 has solved the questions and wants to see other solutions and practice Or for someone who could not solve the question after several attempts and wants to see the solution.
@@ -46,7 +46,7 @@ ehsan.shahbazipc@gmail.com
 |17| [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 734A | 800 |
 |18| [Translation](https://codeforces.com/problemset/problem/41/A) | 41A | 800 |
 |19| [Tram](https://codeforces.com/problemset/problem/116/A) | 116A | 800 |
-|19| [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 677A | 800 |
+|20| [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 677A | 800 |
 
 
 
