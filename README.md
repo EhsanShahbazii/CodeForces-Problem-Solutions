@@ -51,6 +51,7 @@ ehsan.shahbazipc@gmail.com
 |22| [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 1030A | 800 |
 |23| [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 467A | 800 |
 |24| [Presents](https://codeforces.com/problemset/problem/136/A) | 136A | 800 |
+|24| [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 486A | 800 |
 
 
 
