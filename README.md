@@ -53,7 +53,8 @@ ehsan.shahbazipc@gmail.com
 |23| [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 467A | 800 |
 |24| [Presents](https://codeforces.com/problemset/problem/136/A) | 136A | 800 |
 |25| [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 486A | 800 |
-|26| [Calculating Function](https://codeforces.com/problemset/problem/200/B) | 200B | 800 |
+|26| [Drinks](https://codeforces.com/problemset/problem/200/B) | 200B | 800 |
+|27| [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | 61A | 800 |
 
 
 
