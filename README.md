@@ -55,6 +55,7 @@ ehsan.shahbazipc@gmail.com
 |25| [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 486A | 800 |
 |26| [Drinks](https://codeforces.com/problemset/problem/200/B) | 200B | 800 |
 |27| [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | 61A | 800 |
+|28| [Hulk](https://codeforces.com/problemset/problem/705/A) | 705A | 800 |
 
 
 
