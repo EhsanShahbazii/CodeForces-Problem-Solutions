@@ -1,5 +1,4 @@
 ![codeforce](https://assets.codeforces.com/users/kguseva/comments/cf.png)
-
 # CodeForces-Problem-Solutions
 
 ### CodeForces Problem Solutions. over <b>+28 problems</b> solved...
